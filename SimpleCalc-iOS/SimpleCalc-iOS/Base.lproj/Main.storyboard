@@ -97,6 +97,9 @@
                                 <state key="normal" title=".">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="clickPoint:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cRc-kc-Gnl"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LfL-dZ-Gho">
                                 <rect key="frame" x="45.750663839689082" y="399.26259511656974" width="59.999999999999972" height="60.000000000000014"/>
